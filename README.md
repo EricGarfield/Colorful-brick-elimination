@@ -7,7 +7,7 @@
   
 1. Scope of application
 
-a) keyword information that you enter when using the search service provided by this app; 
+a) Keyword information that you enter when using the search service provided by this app; 
 b) the information on your browser and computer that is automatically received and recorded by the application when you use the application web service or access the web page of the application, including but not limited to your IP address, browser type, use Data such as language, date and time of access, hardware and software feature information, and web page records you need;
 
 c) User personal data obtained by the application from a business partner through legal means;
