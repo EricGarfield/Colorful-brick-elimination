@@ -1,8 +1,9 @@
 
-                                              Colorful brick elimination
+                             Colorful brick elimination
 
 
-     This application respects and protects the privacy of all users who use the service; in order to provide you with more accurate and personalized services, this application will use and disclose your personal information in accordance with this Privacy Policy; however, this application will Treat this information with a high degree of diligence and prudence; except as otherwise provided in this Privacy Policy, this application will not disclose or provide this information to third parties without your prior permission; this application will Update this Privacy Policy from time to time; By agreeing to this Application Services Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy; this Privacy Policy is an integral part of this Application Service Agreement;
+     This application respects and protects the privacy of all users who use the service; in order to provide you with more accurate and personalized services, this application will use and disclose your personal information in accordance with this Privacy Policy; however, this application will Treat this information with a high degree of diligence and prudence; except
+as otherwise provided in this Privacy Policy, this application will not disclose or provide this information to third parties without your prior permission; this application will Update this Privacy Policy from time to time; By agreeing to this Application Services Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy; this Privacy Policy is an integral part of this Application Service Agreement;
      
      
   
@@ -33,7 +34,8 @@ b) in order to provide the products and services you request, you must share you
 
 c) disclosure to third parties or administrative or judicial authorities in accordance with the relevant provisions of the law, or at the request of the administrative or judicial authorities; 
 
-d) If you have violated relevant Chinese laws, regulations or this application service agreement or related rules, you need to disclose it to third parties;
+d) If you have violated relevant Chinese laws, regulations or this application service agreement or related rules, you need 
+to disclose it to third parties;
 
 e) If you are a qualified IP Complainant and have filed a complaint, it should be disclosed to the Respondent at the request of the Complainant so that both parties can handle possible rights disputes;
 
