@@ -1,5 +1,5 @@
 
-                                          ##Colorful brick elimination##
+                                          Colorful brick elimination
                                           
          
 
